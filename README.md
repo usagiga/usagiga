@@ -8,4 +8,4 @@ To improve our lives, learn tech :pencil:
 
 See more on My Profile ( [JP](https://usagiga.me/) / [EN](https://usagiga.me/en/) )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usagiga&layout=compact)
+![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usagiga&layout=compact)![github-readme-stats](https://github-readme-stats.vercel.app/api?username=usagiga&count_private=true)
