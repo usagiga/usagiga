@@ -3,7 +3,7 @@
 [![Follow me on twitter](https://img.shields.io/twitter/follow/usagiga_?label=Follow%20%40usagiga_&style=social)](https://twitter.com/usagiga_)
 [![Star me on GitHub](https://img.shields.io/github/followers/usagiga?style=social)](https://github.com/usagiga)
 
-To improve our lives, learn tech :pencil:
+To delight world around us, learn tech :pencil:
 
 See more on My Profile ( [JP](https://usagiga.me/) / [EN](https://usagiga.me/en/) )
 
