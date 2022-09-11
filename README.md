@@ -5,6 +5,6 @@
 
 To delight world around us, learn tech :pencil:
 
-See more on My Profile ( [JP](https://usagiga.me/) / [EN](https://usagiga.me/en/) )
+See more on [My Profile](https://usagiga.me/)
 
 ![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usagiga&layout=compact)![github-readme-stats](https://github-readme-stats.vercel.app/api?username=usagiga&count_private=true)
